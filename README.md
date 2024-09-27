@@ -1,6 +1,6 @@
 # ExpNo 6: Implement a Sudoku Solver From Scratch
-<h3>Name: ASHWINA K N </h3>
-<h3>Register Number: 212223230025   </h3>
+<h3>Name: ARJUN N S</h3>
+<h3>Register Number: 212223230020 </h3>
 
 ## Aim
  To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
